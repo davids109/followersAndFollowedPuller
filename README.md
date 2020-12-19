@@ -1,4 +1,4 @@
-# followers-followed  
+# Followers And Followed Instagram Puller 
 hi! this is a code i put together to show my skills on upwork. it logs in on Instagram with some credentials and pulls the followers or the followed accounts of a specific accounts.  
 when it will run (which by the way you do from the console, writing `python3 followers&followed` in the console, having python3 installed), it will ask you to provide some data.  
 it does need `selenium webdriver` and `beautifulsoup4` tu run, so make sure to have them pip installed.  
